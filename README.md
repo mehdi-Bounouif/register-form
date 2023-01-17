@@ -1,2 +1,1 @@
-# register-form
-register form
+![register form](images/register-form.jpg)
